@@ -2,7 +2,9 @@
 
 One fix for getting the ScreenConnect (ConnectWise Control) Client — the
 Host/support-session client — working on Linux desktops. Verified on
-CachyOS (Arch-based, 2026-07-11) and Debian 13 KDE (2026-07-13).
+CachyOS (Arch-based, 2026-07-11) and on two Debian 13 KDE machines
+(2026-07-13), including one install done purely from this README's manual
+steps.
 
 Supersedes **CWCF** (Arch-only). Research behind the two bugs this fixes
 lives in the CWCR and SCCR repositories.

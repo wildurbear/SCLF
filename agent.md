@@ -229,6 +229,9 @@ something.
 - **Host/support-session clients only.** Unattended access agents
   (Access/Guest) use the .deb/.rpm payloads with an init service and are not
   fixed by this procedure.
-- Verified on: CachyOS/KDE (Arch path) and Debian 13/KDE with Firefox
-  (registration repair). Other distros/DEs should work by the same
-  mechanisms — detect, verify each step, don't assume.
+- Verified on: CachyOS/KDE (Arch extraction path, as the original CWCF
+  script) and two Debian 13/KDE machines with Firefox (full unified script
+  on one; README manual steps on the other). The unified script has not yet
+  been re-run on Arch since gaining the repair step (a no-op there — but
+  verify rather than assume if you're on Arch). Other distros/DEs should
+  work by the same mechanisms — detect, verify each step, don't assume.
