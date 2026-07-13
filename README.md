@@ -1,11 +1,8 @@
 # SCLF — ScreenConnect Client Fix for Linux
 
-One fix for getting the ScreenConnect (ConnectWise Control) Client — the
+Fix for getting the ScreenConnect (ConnectWise Control) Client — the
 Host/support-session client — working on Linux desktops. Verified on
 CachyOS (2026-07-11), Debian 13 KDE (2026-07-13), and Arch Linux (2026-07-13).
-
-Supersedes **CWCF** (Arch-only). Research behind the two bugs this fixes
-lives in the CWCR and SCCR repositories.
 
 ## How to use this repo — pick one
 
